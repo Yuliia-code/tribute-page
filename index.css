@@ -29,7 +29,7 @@
 
 #image {
     width: 800px;
-    max-width: 100%;
+    max-width: 90%;
     height: auto;
     display: block;
     margin-left: auto;
@@ -42,6 +42,10 @@
     padding-bottom: 10px;
     padding-top: 10px;
     color: #1D344A;
+    max-width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #tribute-info {
